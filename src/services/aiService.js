@@ -1,4 +1,5 @@
-const API_URL = 'https://chai-ai-backend.onrender.com';
+// const API_URL = 'https://chai-ai-backend.onrender.com';
+const API_URL = 'https://chai-ai-backend-zm0l.onrender.com';
 
 const getAIResponse = async (
     message,
